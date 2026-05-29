@@ -73,13 +73,19 @@ namespace CybersecurityChatbotWPF
                 "Be wary of individuals claiming to be from technical support asking for remote access to your computer.",
                 "Verify the identity of anyone asking for sensitive information through official channels.",
                 "Educate yourself about common social engineering tactics."
-            }}
+            }},
             
         { "ransomware", new string[] {
     "Ransomware is malicious software that encrypts files and demands payment.",
     "Always keep backups of important files.",
     "Avoid downloading files from unknown sources.",
     "Keep your antivirus software updated."
+}},
+            { "2fa", new string[] {
+    "Two-factor authentication adds an extra layer of security.",
+    "It requires both your password and a second verification step.",
+    "Use authenticator apps instead of SMS when possible.",
+    "Enable 2FA on important accounts such as email and banking."
 }},
         };
 
