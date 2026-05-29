@@ -1,30 +1,38 @@
 # Cybersecurity Awareness Chatbot
 
+## Student Information
+Name: Maanda Mariba
+Student Number: ST10450855
+
 ## Project Description
-This is a C# chatbot application designed to teach users about cybersecurity awareness. The chatbot provides information about phishing, passwords, privacy, cyber safety, and suspicious online messages.
+This project is a Cybersecurity Awareness Chatbot developed in C# and WPF. The chatbot educates users about cybersecurity topics such as phishing, password safety, privacy, malware, ransomware, social engineering, and two-factor authentication.
+
+## GitHub Repository
+https://github.com/MAANDA-M/Cybersecurity-Awareness-Chatbot-Part2
+
+## YouTube Demonstration
+PASTE YOUR UNLISTED YOUTUBE LINK HERE
 
 ## Features
+- Cybersecurity awareness chatbot
 - GUI interface
-- Cybersecurity keyword recognition
-- Password safety tips
-- Phishing explanations and tips
-- Privacy awareness
-- Random cyber safety tips
-- Chatbot memory
-- Sentiment detection
-- Error handling for unknown inputs
+- Password safety guidance
+- Phishing awareness responses
+- Privacy protection advice
+- Malware awareness
+- Ransomware awareness
+- Two-factor authentication guidance
+- GitHub Actions CI workflow
 
 ## How to Run
-1. Open the project in Visual Studio.
-2. Open the solution file.
-3. Build the project.
-4. Click Start to run the chatbot.
-5. Type a cybersecurity question and press Send.
+1. Clone the repository.
+2. Open the project in Visual Studio 2022.
+3. Build the solution.
+4. Run the application.
 
 ## Technologies Used
 - C#
-- Visual Studio
-- Windows Forms/WPF
-
-## Author
-Maanda Mariba
+- WPF
+- .NET
+- GitHub
+- GitHub Actions
