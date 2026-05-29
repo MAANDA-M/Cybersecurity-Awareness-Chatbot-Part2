@@ -74,6 +74,13 @@ namespace CybersecurityChatbotWPF
                 "Verify the identity of anyone asking for sensitive information through official channels.",
                 "Educate yourself about common social engineering tactics."
             }}
+            
+        { "ransomware", new string[] {
+    "Ransomware is malicious software that encrypts files and demands payment.",
+    "Always keep backups of important files.",
+    "Avoid downloading files from unknown sources.",
+    "Keep your antivirus software updated."
+}},
         };
 
         public Chatbot()
